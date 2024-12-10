@@ -21,3 +21,6 @@ Se realizan pruebas funcionales sobre los flujos principales de usuarios, valida
 ## Requisitos
 - Node.js instalado.
 - Cypress configurado en tu entorno.
+
+## Link a tablero de Trello
+- https://trello.com/b/DBPmnw4D/mytestsaucedemo
